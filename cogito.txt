@@ -1,4 +1,11 @@
 Cogito ergo sum
+<<<<<<< HEAD
 agregado en testing!
 y mod
+=======
+this is the testing cojito
+>>>>>>> retesting
 landlkñACNÑNLK
+retesting
+
+esto no deberia aparecer en master!!!!
